@@ -1,0 +1,117 @@
+h1 {
+	color: white;
+	background-color: darkslategray;
+	font-size: 18;
+	line-height: 50px;
+	font-family: Roboto;
+	text-align: left;
+	box-shadow:0px 5px 5px #999;
+	}
+			
+h2 {
+	color: white;
+	background-color: lightslategray;
+	font-size: 12;
+	line-height: 40px;
+	font-family: Roboto;
+	text-align: left;
+	box-shadow:0px 5px 5px #999;
+	}
+			
+p {
+	margin:0;
+	padding:0;
+	font-size: 50px;
+	line-height:30px;
+	color: white;
+	background-color: tomato;
+	font-family: Roboto;
+	text-align: left;
+	box-shadow:0px 2px 5px #999;
+	}
+	
+nav {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	background: #f6f6f6;
+	z-index: 999;
+	height: 140px;
+	overflow: hidden;
+	-webkit-transition: height 0.3s;
+	-moz-transition: height 0.3s;
+	transition: height 0.3s;
+	box-shadow:0px 5px 20px #999;
+}
+			
+a {
+	margin:0;
+	padding:0;
+	font-size: 20px;
+	line-height:20px;
+	color: white;
+	font-family: Roboto;
+	text-align: left;
+	text-decoration: none;
+}
+			
+a:hover{
+	margin:0;
+	padding:0;
+	font-size: 20px;
+	line-height:20px;
+	color: white;
+	font-family: Roboto;
+	text-align: left;
+	text-decoration: underline;
+}
+			
+hr {
+	border: 2px dashed DARKSLATEGRAY;
+	border-radius: 5px;
+	line-height: 2px;
+	}
+			
+img {
+	border: lightslategray 10px solid;
+	box-shadow:0px 0px 5px #999;
+}
+
+h3 {
+	color: DimGray;
+	background-color: lightgray;
+	font-size: 4;
+	line-height: 40px;
+	font-family: Roboto;
+	text-align: left;
+	box-shadow:0px 5px 5px #999;
+	text-align: right;
+	}
+	
+h6 {
+	text-align: center;
+}
+
+dd {
+	color: DimGray;
+	background-color: lightgray;
+	font-size: 4;
+	line-height: 40px;
+	font-family: Roboto;
+	text-align: left;
+	box-shadow:0px 5px 5px #999;
+	}
+
+td{
+	background-color: dimgray;
+	line-height: 30px;
+	box-shadow:0px 5px 5px #999;
+}
+
+body{
+	background-color:whitesmoke;"\
+}
+	
+	
+
